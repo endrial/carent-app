@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7821f692-7bf1-4990-8414-ac4736282299" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/RentCar-App-UI-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RentCar-App-UI-master.iml" afterDir="false" />
-    </list>
+    <list default="true" id="7821f692-7bf1-4990-8414-ac4736282299" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +150,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,8 +207,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -258,8 +256,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Build Variants" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20028612" />
       <window_info id="Structure" order="2" side_tool="true" />
@@ -268,23 +266,24 @@
       <window_info id="Resources Explorer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info id="Build Variants" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.3289855" />
-      <window_info anchor="bottom" id="Run" order="1" weight="0.30821916" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.3068493" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32876712" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Flutter Inspector" order="2" visible="true" weight="0.3204578" />
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Flutter Performance" order="5" />
+      <window_info anchor="right" id="Device File Explorer" order="6" side_tool="true" />
     </layout>
   </component>
   <component name="editorHistoryManager">
